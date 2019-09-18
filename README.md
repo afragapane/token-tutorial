@@ -1,3 +1,12 @@
+## NEO-ONE Token Tutorial Example
+This is an example demonstrating the end state of the neo-one tutorial: https://neo-one.io/tutorial.
+
+To run the project after cloning:
+- `yarn install` (`npm install`)
+- `yarn neo-one build` (`npx neo-one build`): Compiles the token smart contract.
+- `yarn test` (`npm test`): Tests the token smart contract.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
